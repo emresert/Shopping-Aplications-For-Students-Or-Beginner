@@ -1,0 +1,4 @@
+1 mavi size material 12 13
+2 kýrmýzý sizee mmaterial 112 143
+3 sarý sizeee mmmaterial 1123 1443
+258 siyah 45 deri 10 125558
